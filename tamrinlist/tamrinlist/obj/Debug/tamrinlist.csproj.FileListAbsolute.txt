@@ -1,0 +1,6 @@
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\bin\Debug\tamrinlist.exe.config
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\obj\Debug\tamrinlist.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\bin\Debug\tamrinlist.exe
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\bin\Debug\tamrinlist.pdb
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\obj\Debug\tamrinlist.exe
+c:\users\ok\documents\visual studio 2015\Projects\tamrinlist\tamrinlist\obj\Debug\tamrinlist.pdb
