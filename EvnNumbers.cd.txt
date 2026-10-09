@@ -1,3 +1,0 @@
-        static void Main(string[] args)
-        {
-            List<int> inputList = new List<int> { 5, 12, 8, 21, 3, 47, 90, 3,34 };
